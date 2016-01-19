@@ -1,4 +1,4 @@
-# learn_gosu
+# Learn Gosu
 
 This class is designed to give you the skills you need to develop games and more
 broadly to program software. After taking this course, you won't know how to do
@@ -13,4 +13,9 @@ a pull request for your comment. Please review this pull request, make comments,
 and give a +1 if you have no concerns or questions.
 
 ### Module 1
+Read Chapters 1 & 2
+Watch The Following Videos
+Read and Answer the questions found in the Module 1 README
+
+### Module 2
 
